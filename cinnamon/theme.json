@@ -1,8 +1,8 @@
 { 
    "cinnamon-theme": {
-   "name": "Divo", 
-   "author": "brownsr", 
-   "version": "1.0",
+   "name": "Avoid",
+   "author": "allanc",
+   "version": "0.1",
    "type":   "custom",
    "thumbnail": "thumbnail.png", 
    "url": "" 

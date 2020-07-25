@@ -734,8 +734,8 @@ border-radius: 0px;
 
   border-radius: 0px 15px 15px 15px;
   background-gradient-direction: vertical;
-  background-gradient-start: rgba(255,255,255,1.0);
-  background-gradient-end: rgba(210,210,210,.93);
+  background-gradient-start: #454545;
+  background-gradient-end: #454545;
   border: 1px  #555;
   border-left: 1px rgba(85,85,85,0.5);
   border-right: 1px rgba(85,85,85,0.5);
@@ -749,12 +749,12 @@ border-radius: 0px;
     spacing-columns: 10px;
     margin-from-right-edge-of-screen: 20px;
     width: 34em;
-    color: rgb(70, 70, 70);
+    color: #f0f0f0;
 }
 
 #notification.multi-line-notification {
     padding-bottom: 8px;
-    color: rgb(70, 70, 70);
+    color: #f0f0f0;
 }
 
 /* We use row-span = 2 for the image cell, which prevents its height preferences to be
